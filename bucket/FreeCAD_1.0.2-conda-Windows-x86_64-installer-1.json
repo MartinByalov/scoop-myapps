@@ -1,0 +1,8 @@
+{
+  "version": "latest",
+  "url": "file:///F:/Programs/FreeCAD_1.0.2-conda-Windows-x86_64-installer-1.exe",
+  "hash": "SHA256_HASH",
+  "install": [
+    "start /wait .\\FreeCAD_1.0.2-conda-Windows-x86_64-installer-1.exe /quiet"
+  ]
+}

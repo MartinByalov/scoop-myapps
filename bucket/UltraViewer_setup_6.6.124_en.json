@@ -1,0 +1,8 @@
+{
+  "version": "latest",
+  "url": "file:///F:/Programs/UltraViewer_setup_6.6.124_en.exe",
+  "hash": "SHA256_HASH",
+  "install": [
+    "start /wait .\\UltraViewer_setup_6.6.124_en.exe /S"
+  ]
+}

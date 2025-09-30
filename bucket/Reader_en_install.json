@@ -1,0 +1,8 @@
+{
+  "version": "latest",
+  "url": "file:///F:/Programs/Reader_en_install.exe",
+  "hash": "SHA256_HASH",
+  "install": [
+    "start /wait .\\Reader_en_install.exe /silent"
+  ]
+}

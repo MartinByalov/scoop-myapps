@@ -1,0 +1,8 @@
+{
+  "version": "latest",
+  "url": "file:///F:/Programs/SketchUp-2025-0-660-288.exe",
+  "hash": "SHA256_HASH",
+  "install": [
+    "start /wait .\\SketchUp-2025-0-660-288.exe /S"
+  ]
+}

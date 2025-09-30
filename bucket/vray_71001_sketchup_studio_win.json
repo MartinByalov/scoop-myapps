@@ -1,0 +1,8 @@
+{
+  "version": "latest",
+  "url": "file:///F:/Programs/vray_71001_sketchup_studio_win.exe",
+  "hash": "SHA256_HASH",
+  "install": [
+    "start /wait .\\vray_71001_sketchup_studio_win.exe /S"
+  ]
+}

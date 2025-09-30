@@ -1,0 +1,8 @@
+{
+  "version": "latest",
+  "url": "file:///F:/Programs/gimp-3.0.4-setup.exe",
+  "hash": "SHA256_HASH",
+  "install": [
+    "start /wait .\\gimp-3.0.4-setup.exe /S"
+  ]
+}

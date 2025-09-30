@@ -1,0 +1,8 @@
+{
+  "version": "latest",
+  "url": "file:///F:/Programs/vc_redist.x64.exe",
+  "hash": "SHA256_HASH",
+  "install": [
+    "start /wait .\\vc_redist.x64.exe /install /quiet"
+  ]
+}

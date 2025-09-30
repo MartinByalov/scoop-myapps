@@ -1,0 +1,8 @@
+{
+  "version": "latest",
+  "url": "file:///F:/Programs/vlc-3.0.21-win64.exe",
+  "hash": "SHA256_HASH",
+  "install": [
+    "start /wait .\\vlc-3.0.21-win64.exe /S"
+  ]
+}

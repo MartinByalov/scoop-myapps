@@ -1,0 +1,8 @@
+{
+  "version": "latest",
+  "url": "file:///F:/Programs/inkscape-1.4.2_2025-05-13_f4327f4-x64.exe",
+  "hash": "SHA256_HASH",
+  "install": [
+    "start /wait .\\inkscape-1.4.2_2025-05-13_f4327f4-x64.exe /silent"
+  ]
+}

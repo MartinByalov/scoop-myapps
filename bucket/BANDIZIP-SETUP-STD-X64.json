@@ -1,0 +1,8 @@
+{
+  "version": "latest",
+  "url": "file:///F:/Programs/BANDIZIP-SETUP-STD-X64.exe",
+  "hash": "SHA256_HASH",
+  "install": [
+    "start /wait .\\BANDIZIP-SETUP-STD-X64.exe /silent"
+  ]
+}

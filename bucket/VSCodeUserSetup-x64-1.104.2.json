@@ -1,0 +1,8 @@
+{
+  "version": "latest",
+  "url": "file:///F:/Programs/VSCodeUserSetup-x64-1.104.2.exe",
+  "hash": "SHA256_HASH",
+  "install": [
+    "start /wait .\\VSCodeUserSetup-x64-1.104.2.exe /silent"
+  ]
+}

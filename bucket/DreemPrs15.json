@@ -1,0 +1,8 @@
+{
+  "version": "latest",
+  "url": "file:///F:/Programs/DreemPrs15.exe",
+  "hash": "SHA256_HASH",
+  "install": [
+    "start /wait .\\DreemPrs15.exe /silent"
+  ]
+}
